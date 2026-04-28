@@ -1,0 +1,9 @@
+{
+  "operation_logger_version": "0.1.0",
+  "is_production_build": true,
+  "started_at_utc": "2026-04-22T04:16:30.110",
+  "target_app": {
+    "title": "Slay the Spire 2",
+    "process_name": "SlayTheSpire2.exe"
+  }
+}
